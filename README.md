@@ -21,5 +21,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## I play this awesome game
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=z1gyeol)](https://solved.ac/z1gyeol)
